@@ -26,3 +26,4 @@ Clone this repository by running the following command:
 
 Maintainers:
       IndigoBeard
+	  Kunsstek je smeće
